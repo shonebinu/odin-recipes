@@ -1,10 +1,18 @@
 * {
-    color: #e94560;
+    color: #000000;
     font-family: "Verdana", sans-serif;
-    background-color: #16213e;
+    background-color: #eeebdd;
 }
 
 img {
     width: 30%;
     height: auto;
+}
+
+h1 {
+    color: #630000;
+}
+
+h2 {
+    color: #d8b6a4;
 }
